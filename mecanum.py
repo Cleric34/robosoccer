@@ -247,12 +247,12 @@ def webpage(random_value, state):
         <!DOCTYPE html>
         <html>
         <head>
-            <title>Aditya Rao - Paradox'24 Workshop</title>
+            <title>Tars</title>
             <meta name="viewport" content="width=device-width, initial-scale=1">
         </head>
         <body>
             <h1 align="center">ROBO SOCCER WIFI CONTROL</h1>
-            <h2 align="center">Aditya Rao - Mecanum v2</h2>
+            <h2 align="center">Tars v2</h2>
             <table align="center">
             <tr>
                 <td>
